@@ -1,3 +1,3 @@
 # react-base
 
-* npm run dev *
+* npm run dev 
